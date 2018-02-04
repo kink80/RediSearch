@@ -12,5 +12,6 @@
 !/cndict
 /site
 !/debian/*
+!/setup/*
 
 src/dep/snowball/libstemmer/mkinc.mak
